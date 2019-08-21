@@ -8,5 +8,5 @@ The Dataset has two category dogs and cat and there are more than 12K images in 
 
 The basic CNN structure is as follows: Convolution -> Pooling -> Convolution -> Pooling -> Fully Connected Layer -> Output
 
-I got almost 90% accuarcy.
+I got almost 90% accuracy.
 
